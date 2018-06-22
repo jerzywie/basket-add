@@ -1,36 +1,16 @@
 # basket-add
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Add items from Albany spreadsheet to Essential basket
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar basket-add-0.1.0-standalone.jar [args]
+    $ java -jar basket-add-0.1.0-SNAPSHOT-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
+Usage parameters: spreadsheet username password
 
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
+Copyright © 2018 @jerzywie
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
