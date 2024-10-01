@@ -10,3 +10,5 @@ pom.xml.asc
 .hgignore
 .hg/
 *.xls*
+.DS_Store
+.cpcache
